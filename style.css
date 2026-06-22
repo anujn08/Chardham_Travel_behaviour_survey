@@ -52,14 +52,14 @@ body::before {
     transition: background-image 0.5s ease-in-out;
 }
 
-.bg-0 { background-image: url('../images/1.jpeg'); }
-.bg-1 { background-image: url('../images/2.jpeg'); }
-.bg-2 { background-image: url('../images/3.jpeg'); }
-.bg-3 { background-image: url('../images/4.jpeg'); }
-.bg-4 { background-image: url('../images/5.jpeg'); }
-.bg-5 { background-image: url('../images/6.jpeg'); }
-.bg-6 { background-image: url('../images/1.jpeg'); }
-.bg-7 { background-image: url('../images/2.jpeg'); }
+.bg-0 { background-image: url('images/1.jpeg'); }
+.bg-1 { background-image: url('images/2.jpeg'); }
+.bg-2 { background-image: url('images/3.jpeg'); }
+.bg-3 { background-image: url('images/4.jpeg'); }
+.bg-4 { background-image: url('images/5.jpeg'); }
+.bg-5 { background-image: url('images/6.jpeg'); }
+.bg-6 { background-image: url('images/1.jpeg'); }
+.bg-7 { background-image: url('images/2.jpeg'); }
 
 h1 {
     max-width: 980px;
